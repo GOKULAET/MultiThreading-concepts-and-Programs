@@ -1,7 +1,7 @@
 package com.gokul.threadPractice;
 //Defining a thread
 public class MyThread extends Thread{
-// This part is called -> JOB of the read
+// This part is called -> JOB of the Thread
 	//code inside run method is called JOB of THREAD
 	/*public void start() {
 		super.start();
